@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\infrastructure\\migrations\\20241026114033_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241026114033_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37361903-730E-4A68-ADD6-B1AC57030D6B}|ToDoApplication\\ToDoApplication.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\todoapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37361903-730E-4A68-ADD6-B1AC57030D6B}|ToDoApplication\\ToDoApplication.csproj|solutionrelative:todoapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\infrastructure\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD943A12-11DE-4D1E-9849-45DF223D5D73}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marin\\source\\repos\\ToDoApplication\\Infrastructure\\Migrations\\20241026113904_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37361903-730E-4A68-ADD6-B1AC57030D6B}|ToDoApplication\\ToDoApplication.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37361903-730E-4A68-ADD6-B1AC57030D6B}|ToDoApplication\\ToDoApplication.csproj|solutionrelative:todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37361903-730E-4A68-ADD6-B1AC57030D6B}|ToDoApplication\\ToDoApplication.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\todoapplication\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37361903-730E-4A68-ADD6-B1AC57030D6B}|ToDoApplication\\ToDoApplication.csproj|solutionrelative:todoapplication\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\application\\use cases\\commandhandlers\\createtodoitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\createtodoitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\application\\use cases\\commands\\createtodoitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createtodoitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\application\\dtos\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1B0176-38F8-45DB-A3EA-8D1F34EAF06D}|Application\\Application.csproj|solutionrelative:application\\dtos\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362F5253-2D65-4156-A153-A731FDD0116B}|Domain\\Domain.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362F5253-2D65-4156-A153-A731FDD0116B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362F5253-2D65-4156-A153-A731FDD0116B}|Domain\\Domain.csproj|c:\\users\\marin\\onedrive\\desktop\\projects\\.net\\todoapplication\\domain\\repositories\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362F5253-2D65-4156-A153-A731FDD0116B}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241026114033_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\Migrations\\20241026114033_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241026114033_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\Migrations\\20241026114033_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241026114033_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:40:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241026113904_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\source\\repos\\ToDoApplication\\Infrastructure\\Migrations\\20241026113904_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ToDoApplication\\Infrastructure\\Migrations\\20241026113904_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\marin\\source\\repos\\ToDoApplication\\Infrastructure\\Migrations\\20241026113904_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ToDoApplication\\Infrastructure\\Migrations\\20241026113904_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:39:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:38:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\Repositories\\ToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ToDoItemRepository.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\Repositories\\ToDoItemRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ToDoItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:55:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:43:17.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:44:52.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\ToDoApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\ToDoApplication\\appsettings.json",
+              "RelativeToolTip": "ToDoApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:10:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\ToDoApplication\\Controllers\\ToDoItemsController.cs",
+              "RelativeDocumentMoniker": "ToDoApplication\\Controllers\\ToDoItemsController.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\ToDoApplication\\Controllers\\ToDoItemsController.cs",
+              "RelativeToolTip": "ToDoApplication\\Controllers\\ToDoItemsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:20:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\ToDoApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\ToDoApplication\\Program.cs",
+              "RelativeToolTip": "ToDoApplication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:07:37.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateToDoItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\Use Cases\\CommandHandlers\\CreateToDoItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\CreateToDoItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\Use Cases\\CommandHandlers\\CreateToDoItemCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\CreateToDoItemCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:20:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateToDoItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\Use Cases\\Commands\\CreateToDoItemCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateToDoItemCommand.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\Use Cases\\Commands\\CreateToDoItemCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateToDoItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:18:00.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\DTOs\\ToDoItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ToDoItemDto.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Application\\DTOs\\ToDoItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ToDoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:51:14.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Domain\\Entities\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Domain\\Entities\\ToDoItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:35:22.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IToDoItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Domain\\Repositories\\IToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IToDoItemRepository.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Projects\\.NET\\ToDoApplication\\Domain\\Repositories\\IToDoItemRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IToDoItemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:40:51.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
